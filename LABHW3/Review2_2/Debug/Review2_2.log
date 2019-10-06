@@ -1,0 +1,3 @@
+﻿  Review2_2.c
+c:\users\nabib\documents\2-2\자료구조\labhw3\review2_2\review2_2.c(32): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Review2_2.vcxproj -> C:\Users\nabib\Documents\2-2\자료구조\LABHW3\Debug\Review2_2.exe
