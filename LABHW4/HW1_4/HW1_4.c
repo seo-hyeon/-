@@ -102,7 +102,7 @@ int get_size(ListNode *head)
 
 ListNode* search(ListNode *head, element data)
 {
-	ListNode *node = (ListNode *)malloc(sizeof(ListNode));
+	ListNode *node;
 	node = head->link;
 
 	while (node != head)
