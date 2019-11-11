@@ -1,0 +1,16 @@
+﻿  HW5_1.c
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(72): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(230): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(238): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(242): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(247): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(197): warning C4101: 'e5' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(197): warning C4101: 'e6' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_1\hw5_1.c(127): warning C4715: 'find': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW5_1.vcxproj -> C:\Users\nabib\Documents\GitHub\Data-structure\LABHW5\Debug\HW5_1.exe
