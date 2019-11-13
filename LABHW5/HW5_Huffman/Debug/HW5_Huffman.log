@@ -1,0 +1,3 @@
+﻿  HW5_Huffman.c
+c:\users\nabib\documents\github\data-structure\labhw5\hw5_huffman\hw5_huffman.c(78): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW5_Huffman.vcxproj -> C:\Users\nabib\Documents\GitHub\Data-structure\LABHW5\Debug\HW5_Huffman.exe
