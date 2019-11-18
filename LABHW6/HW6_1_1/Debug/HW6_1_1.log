@@ -1,0 +1,16 @@
+﻿  HW6_1_1.c
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(62): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(71): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(72): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(47): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(47): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(47): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(88): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\nabib\documents\github\data-structure\labhw6\hw6_1_1\hw6_1_1.c(88): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  HW6_1_1.vcxproj -> C:\Users\nabib\Documents\GitHub\Data-structure\LABHW6\Debug\HW6_1_1.exe
