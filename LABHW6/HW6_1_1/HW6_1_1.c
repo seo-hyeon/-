@@ -99,11 +99,13 @@ void write_graph(GraphType *g, char *filename)
 	}
 
 	// ÄÚµå »ðÀÔ
+	fprintf(fp, "%d\n", g->n);
+
 	for (int i = 0; i < g->n; i++) {
-		for (int j = 0; j < g->n; j++) {
-			fprintf(fp, "%2d", g->adj_mat[i][j]);
+		for (int j = i; j < g->n; j++) {
+			if (g->adj_mat[i][j] == 1)
+				fprintf(fp, "%d %d\n", i, j);
 		}
-		fputs("\n", fp);
 	}
 
 	fputs("\n", fp);
