@@ -103,8 +103,9 @@ void print_huffman_code(element e, int size, int key, char result[])
 int main(void)
 {
 	//int freq[] = { 15, 12, 8, 6, 4 };
-	int freq[] = { 1, 10, 11, 14, 15, 35, 45, 1000 };
-	int i, size = 8;
+	//int freq[] = { 1, 10, 11, 14, 15, 35, 45, 1000 };
+	int freq[] = { 1, 2, 4, 5, 6, 8 };
+	int i, size = 6;
 	char result[100];
 	element e;
 
